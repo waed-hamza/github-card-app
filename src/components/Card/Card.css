@@ -1,0 +1,25 @@
+.github-profile {
+    margin: 30px auto 30px auto;
+    padding: 10px 0px;
+    width: 30%;
+    border: 1px solid rgb(146, 145, 145);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 75px;
+}
+
+.info {
+    display: inline-block;
+    margin-left: 12px;
+    width: 170px;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: bold;
+}

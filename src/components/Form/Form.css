@@ -1,0 +1,37 @@
+form {
+    padding: 30px;
+    border: 1px solid rgb(146, 145, 145);
+    border-radius: 10px;
+    width: 40%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    height: 30px;
+    padding: 0px 10px;
+    font-size: 15px;
+    margin-right: 10px;
+    outline: none;
+    border-radius: 10px;
+    border: 1px solid rgb(146, 145, 145);
+    background-color: #24292f;
+    color: rgb(196, 196, 196);
+}
+
+button {
+    width: 70px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 1px solid rgb(146, 145, 145);
+    background-color: rgb(231, 231, 231);
+}
+
+button:hover {
+    background-color: #24292f;
+    color: rgb(196, 196, 196);
+    transition: all;
+    transition-duration: 1s;
+}
